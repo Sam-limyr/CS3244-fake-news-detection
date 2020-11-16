@@ -1,5 +1,7 @@
 ## CS3244-fake-news-detection
 
+### **Technical report can be found in CS3244-2010-0020.pdf**
+
 ### NOTE & Preparation
     1. document ID for fake news starts from: 21417
     2. install nltk:
