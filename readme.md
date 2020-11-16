@@ -1,6 +1,14 @@
 ## CS3244-fake-news-detection
 
-### **Technical report can be found in CS3244-2010-0020.pdf**
+## **Technical report can be found in CS3244-2010-0020.pdf**
+
+### Code
+
+- BERT: bert_fakenewsnet.py
+- GRU: gru.py
+- LSTM: lstm_v2_wyc.py
+- Naive Bayes, Random Forest: Fake_News_Classiifer_Bayes.ipynb
+- Logistic Regression, kNN, SVM: Logistic_Regression.ipynb
 
 ### NOTE & Preparation
     1. document ID for fake news starts from: 21417
